@@ -20,7 +20,7 @@ accuracy of the labeling.
 - **Recording setup:** Supervised onsite recording.
 
 ## Download
-Please download the corpus from [sourceforge](https://sourceforge.net/projects/blp/files/Speech_Corpora/).
+Due to the size of the corpora (4.4GB) we still kept the data on sourceforge. Please download the corpus from [sourceforge](https://sourceforge.net/projects/blp/files/Speech_Corpora/).
 
 
 ## Please Cite this paper: 
