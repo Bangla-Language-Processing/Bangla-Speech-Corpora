@@ -20,11 +20,12 @@ accuracy of the labeling.
 - **Recording setup:** Supervised onsite recording.
 
 ## Download
+Due to the size of the corpora (4.4GB) we uploaded data on [mendeley](http://mendeley.com/) and also kept the data on sourceforge.
+
 Option 1:
 Please follow [mendeley page](https://data.mendeley.com/datasets/c79z6gz9rm/1).
 
-Option 2:
-Due to the size of the corpora (4.4GB) we still kept the data on sourceforge. Please download the corpus from [sourceforge](https://sourceforge.net/projects/blp/files/Speech_Corpora/).
+Option 2: [sourceforge](https://sourceforge.net/projects/blp/files/Speech_Corpora/).
 
 
 ## Please Cite this paper:
