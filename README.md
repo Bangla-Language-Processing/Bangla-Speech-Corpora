@@ -20,10 +20,14 @@ accuracy of the labeling.
 - **Recording setup:** Supervised onsite recording.
 
 ## Download
+Option 1:
+Please follow [mendeley page](https://data.mendeley.com/datasets/c79z6gz9rm/1).
+
+Option 2:
 Due to the size of the corpora (4.4GB) we still kept the data on sourceforge. Please download the corpus from [sourceforge](https://sourceforge.net/projects/blp/files/Speech_Corpora/).
 
 
-## Please Cite this paper: 
+## Please Cite this paper:
 
 Firoj Alam, S. M. Murtoza Habib, Dil Afroza Sultana and Mumit Khan,  Development of Annotated Bangla Speech Corpora, Spoken Language Technologies for Under-resourced language (SLTU’10), vol 1, pp-35-41, Penang, Malasia, May 3 - 5, 2010.[paper](https://www.researchgate.net/publication/47528757_Development_of_annotated_Bangla_speech_corpora)
 
@@ -35,4 +39,3 @@ Firoj Alam, S. M. Murtoza Habib, Dil Afroza Sultana and Mumit Khan,  Development
   year={2010}
 }
 ```
-
