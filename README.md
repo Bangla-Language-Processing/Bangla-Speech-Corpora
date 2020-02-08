@@ -1,6 +1,6 @@
 # Bangla Speech Corpora
 
-Bangla cleaned speech corpus, specially developed for [Bangla Text to Speech](https://github.com/Bangla-Language-Processing/Katha-Bangla-TTS) back in 2009. It is hosted orginally hosted in [sourceforge](https://sourceforge.net/projects/blp/files/Speech_Corpora/).
+Bangla cleaned speech corpus, specially developed for [Bangla Text to Speech](https://github.com/Bangla-Language-Processing/Katha-Bangla-TTS) back in 2009. It is orginally hosted in [sourceforge](https://sourceforge.net/projects/blp/files/Speech_Corpora/).
 
 ## Characterstics of the corpus
 This dataset consists of three different corpora and those were developed for three different purposes.
